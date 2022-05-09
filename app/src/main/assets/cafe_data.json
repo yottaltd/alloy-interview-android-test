@@ -1,0 +1,946 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.29037590000001,
+               "lng" : -1.536391
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.29171332989272,
+                  "lng" : -1.535034170107278
+               },
+               "southwest" : {
+                  "lat" : 52.28901367010727,
+                  "lng" : -1.537733829892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Gusto Ricco Cafe",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104455329191632671520\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBNcIWalmPGVA2SQJko-eYDmNoEHYd1ZVz-NQpUzOhNJSr_1sqq3lTW433uVyaLZ8KCZoOSyuzggBuIbMMzuXHp4KxLNRtBeDEGsacEUkPVTcEB5s--5OR72JaJbEYI1J46j92sCbyI1ij01t0QAJ87kNTd8QbQDb-4JL48lSGoTXI1",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJc1Yu0YA1d0gRYBVyHmTTibs",
+         "plus_code" : {
+            "compound_code" : "7FR7+5C Leamington Spa",
+            "global_code" : "9C4W7FR7+5C"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJc1Yu0YA1d0gRYBVyHmTTibs",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 281,
+         "vicinity" : "63 - 65 Regent St, Leamington Spa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.2891768,
+               "lng" : -1.5345309
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.29048472989273,
+                  "lng" : -1.533130170107278
+               },
+               "southwest" : {
+                  "lat" : 52.28778507010728,
+                  "lng" : -1.535829829892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "The Muse Coffee House",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100603626912290732523\"\u003eGaurav Ahluwalia\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECOc3Ee_gZW8JSIHr9oB-Z3q7ghKnnPmDfc_keA1EMeHZe_waAH3AnL8UPfu9RkQ7FTwfQBAN1spqSegASlWluTn3vhzzB6D-6nCCr2XctB74XMqyPWr2_DXno7JX--2GbLWXwoa9yhJJRbKLo-O2s2KJyap6CCV2nItrphEi-gLYv6",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJbfhzk541d0gR80o0HcJgqgs",
+         "plus_code" : {
+            "compound_code" : "7FQ8+M5 Leamington Spa",
+            "global_code" : "9C4W7FQ8+M5"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJbfhzk541d0gR80o0HcJgqgs",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 78,
+         "vicinity" : "3 Regent Grove, Leamington Spa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.2906103,
+               "lng" : -1.5330516
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.29195282989272,
+                  "lng" : -1.531701770107278
+               },
+               "southwest" : {
+                  "lat" : 52.28925317010728,
+                  "lng" : -1.534401429892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Le Cafe",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 750,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105907892430003697171\"\u003eLayal Jambi\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB25hBboJseAys6OM219hyqN4C9J1vZhvDDr6a_2cad6uYHhoXRjcu3MHcL3nkdNc0HeLWyEHftss2Mw8tPCz0omcp8HdTXxHXpAunroSgzqkR-6-sikUr_RAeJujz_HRbJCDXWxIKkzGrkRRrlC8_FJJmmJxVEftPsIgNXFwYxS6dS",
+               "width" : 1334
+            }
+         ],
+         "place_id" : "ChIJ8aytpe00d0gRED3miOKipeM",
+         "plus_code" : {
+            "compound_code" : "7FR8+7Q Leamington Spa",
+            "global_code" : "9C4W7FR8+7Q"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJ8aytpe00d0gRED3miOKipeM",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 53,
+         "vicinity" : "135 Regent St, Leamington Spa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.2904464,
+               "lng" : -1.5366761
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.29180022989272,
+                  "lng" : -1.535303170107278
+               },
+               "southwest" : {
+                  "lat" : 52.28910057010728,
+                  "lng" : -1.538002829892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Portofino Caffe'",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118324395410236528787\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECNUbdwsjwRBjjDtaGY_KD4gOZETh2JfQdV1eKW3ZWXIcKB2Id80c0w7Xw4SgEENk6s_pa-50o9Ywr7zzi3rQw_8XwsW89pdPz-PQ0rq8brU3atpxn46Uxy3BDfT3ulrQjYVfh2h1dGjufm9lsfX0bSHT-_kYBpHAmXMrqqM_EluNqZ",
+               "width" : 2736
+            }
+         ],
+         "place_id" : "ChIJoWS9fcA1d0gRXD9wuH7QeGA",
+         "plus_code" : {
+            "compound_code" : "7FR7+58 Leamington Spa",
+            "global_code" : "9C4W7FR7+58"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJoWS9fcA1d0gRXD9wuH7QeGA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 15,
+         "vicinity" : "40 Bedford St, Leamington Spa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.2823489,
+               "lng" : -1.531311
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.28370177989272,
+                  "lng" : -1.529942370107278
+               },
+               "southwest" : {
+                  "lat" : 52.28100212010727,
+                  "lng" : -1.532642029892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Procaffeinate",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 810,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100791616628552976496\"\u003eProcaffeinate\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECpxgoO8AghSRBucRQkLWzblnuU1y8LU-1BZH-TicmVHJ2Gh9ZgEnzaL_da6R2VYdDoXGkla91Y3xI17nuCKLe3CHBB-bRrYqBh-aWQDwh9gBzTvmdnp_iCc9wJS-BQNkkRcUxcLgZTwvaWvObqBxV1tGpc5NJULrVSXZVNHkhI6V1g",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJS2Y6HZI0d0gR_O9sJnVWGYc",
+         "plus_code" : {
+            "compound_code" : "7FJ9+WF Leamington Spa",
+            "global_code" : "9C4W7FJ9+WF"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJS2Y6HZI0d0gR_O9sJnVWGYc",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 556,
+         "vicinity" : "66 Clemens St, Leamington Spa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.2899692,
+               "lng" : -1.5363995
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.29131727989272,
+                  "lng" : -1.535079920107278
+               },
+               "southwest" : {
+                  "lat" : 52.28861762010727,
+                  "lng" : -1.537779579892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+         "name" : "Aroma Cafe and Tapas Bar",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111407419702178101182\"\u003earoma cafe\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECaLO83pfpsvoBF09r4IvrELXz40MSP055dtNSlBhH44CND_WhLwkjez2ooDcMBXlaqaz1eCJwrArMXaK3hAAzUe9Nl0lAt7zb3PTZcj0seX8bQ55fWShkwwCYTSRmDI08pFerlIo5RxPgKyGQi2MlBBncc8Hrgj9OFuUJUVFyrfbXY",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ0_ePiOw0d0gRvJsTvlX-2_A",
+         "plus_code" : {
+            "compound_code" : "7FQ7+XF Leamington Spa",
+            "global_code" : "9C4W7FQ7+XF"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJ0_ePiOw0d0gRvJsTvlX-2_A",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 222,
+         "vicinity" : "47 Bedford St, Leamington Spa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.2884526,
+               "lng" : -1.5300984
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.28980242989272,
+                  "lng" : -1.528748570107278
+               },
+               "southwest" : {
+                  "lat" : 52.28710277010728,
+                  "lng" : -1.531448229892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "The Aviary Cafe",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100617278733021574630\"\u003eNina Mortas\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBz4qiUg-zaNTz7xb6hCgoeFfC60TzcJo0JN7DTWofCXB9SAfHmmHeNxoZsmtoDA22RIk0ck5NEPz3FPmcN3ESkM8EnGLSXnPgxibKZ8VtFlWx0ggZPslnnvzzphFbaFt6EXBkcSiF-WUz_nO5skkpqKh1rLirFojJBueial8BNVEr7",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJPe2qpfI0d0gRd_qq0NLnmzs",
+         "plus_code" : {
+            "compound_code" : "7FQ9+9X Leamington Spa",
+            "global_code" : "9C4W7FQ9+9X"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJPe2qpfI0d0gRd_qq0NLnmzs",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 256,
+         "vicinity" : "Royal Leamington Spa, Leamington Spa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.2911223,
+               "lng" : -1.5349095
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.29284972989272,
+                  "lng" : -1.533759970107278
+               },
+               "southwest" : {
+                  "lat" : 52.29015007010728,
+                  "lng" : -1.536459629892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Café Brasília",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 466,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106860727114630390994\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDyvNKRjjndyYPdTNeHDXjh9d1vxygwPoW85NSNweL9t3M5lcKoq--D5zGeoqiBNZcsezkcGX5KghmP338XZz6NhZ6GoouXicDSoCqwbYU5L3qWfhM08CoO2kgLULJAOHaEfsM68uZqNPRumhPyGnbzzkp382D5SYv5vG0eOyHcumkt",
+               "width" : 828
+            }
+         ],
+         "place_id" : "ChIJRU9025s1d0gR6cLnR2jWgXo",
+         "plus_code" : {
+            "compound_code" : "7FR8+C2 Leamington Spa",
+            "global_code" : "9C4W7FR8+C2"
+         },
+         "rating" : 4,
+         "reference" : "ChIJRU9025s1d0gR6cLnR2jWgXo",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 34,
+         "vicinity" : "Royal Priors, Shopping Centre, Unit 12 Lower Mall, Leamington Spa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.28714069999999,
+               "lng" : -1.5342626
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.28868587989272,
+                  "lng" : -1.533067920107278
+               },
+               "southwest" : {
+                  "lat" : 52.28598622010728,
+                  "lng" : -1.535767579892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "The Larder",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104138329556037954225\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBRgyvqOnkFCenelZLpqem-vj490PUPZt7_bmH90wgyVwk-mdYtK_qecR_9NNZx66lU85uLnZlQvNHVqAttCB2sXFlsVa8pBTBh5CJQUMXJMOOoXLSHXWSaL87_JI09aH5n5-wvGV_wYsfqqYgNscw1WAyE5JIVO-BBnPx_uyKsCY_w",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJF8a3Des0d0gRSOdT9AW4n9E",
+         "plus_code" : {
+            "compound_code" : "7FP8+R7 Leamington Spa",
+            "global_code" : "9C4W7FP8+R7"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJF8a3Des0d0gRSOdT9AW4n9E",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 157,
+         "vicinity" : "Leamington Library Royal Pump Rooms Parade, Leamington Spa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.2903461,
+               "lng" : -1.534823
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.29170142989272,
+                  "lng" : -1.533478520107278
+               },
+               "southwest" : {
+                  "lat" : 52.28900177010728,
+                  "lng" : -1.536178179892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Caffè Nero",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108151294106249977594\"\u003eMohammad Abdullah\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAPYd6EOTY1IaEo2T2g2vXKfHdSL7CBM9DP9y-vphTURFf0wiDf152_1AyL9ET19yoHAPJ-j19QSrOcqYJcNAwq3-o1fV0AE3jtPkEyO3c3r6weo8W9mnj3qyhpfbJpTkZ6XveNS0vLTH8USERekIUYiqG0J0IGNPDilZf2qOF-fRLY",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ4WVHVuw0d0gRgjVffpnllYU",
+         "plus_code" : {
+            "compound_code" : "7FR8+43 Leamington Spa",
+            "global_code" : "9C4W7FR8+43"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ4WVHVuw0d0gRgjVffpnllYU",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 193,
+         "vicinity" : "72 Regent St, Leamington Spa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.2919032,
+               "lng" : -1.5352681
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.29330062989273,
+                  "lng" : -1.533926870107278
+               },
+               "southwest" : {
+                  "lat" : 52.29060097010728,
+                  "lng" : -1.536626529892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Cafe Royal",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116137486524103636905\"\u003eDaniele Carbonaro\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDytJOBvkHRL0gOFA3fSYtAx77S0Xraa5Un95NCEed1LiKdFViXd8spbUNcMc0BpvUNofrkTgFNfujOYG97zym7ilagdnWaetkcLNojHvwWnICuIXHuvcC0Xws57YnFmOGFsx6wkQ5KxCrsHZ0RB0BdCyJmj-anWs60Qwjzsqb6sgL0",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJZQcGPOw0d0gRN6ufB2pkcos",
+         "plus_code" : {
+            "compound_code" : "7FR7+QV Leamington Spa",
+            "global_code" : "9C4W7FR7+QV"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJZQcGPOw0d0gRN6ufB2pkcos",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 471,
+         "vicinity" : "70 Warwick St, Leamington Spa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.284929,
+               "lng" : -1.532496
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.28625517989272,
+                  "lng" : -1.531213170107278
+               },
+               "southwest" : {
+                  "lat" : 52.28355552010728,
+                  "lng" : -1.533912829892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Temperance",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115067913418464538533\"\u003eLaura Vera Trails Around World\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDXg62eVOsb3KiLWljX4J4linSBA2MsimSImf7WqC9Ob2L_ceaAVCWmuoi0uMYzM1n1jeKtCpqWuCZqC386n98eBFEYXt3X3mVcuthIjoikEqcaVIj7dpVK_Krh59i9PEk2rSoKH_02wOR4UTxY545Gh79PEMyacLTLMRRV9JvUctSn",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJWen5Fdg1d0gRKvQAss7jjMg",
+         "plus_code" : {
+            "compound_code" : "7FM9+X2 Leamington Spa",
+            "global_code" : "9C4W7FM9+X2"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJWen5Fdg1d0gRKvQAss7jjMg",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 249,
+         "vicinity" : "33 Bath St, Leamington Spa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.28437719999999,
+               "lng" : -1.5324372
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.28574072989272,
+                  "lng" : -1.531026720107278
+               },
+               "southwest" : {
+                  "lat" : 52.28304107010727,
+                  "lng" : -1.533726379892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Dinky’s Play Cafe",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108511069038887364366\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBuSwWFAc2QQRZ0dXmQ0n4tmUmJzRzAHUVEcfDuNHwNfmuUnGEp76Y2IZb5Xz_1-6GnBKdzFBlPblaJnT3ZOeVYwFso65iw2RfQveYBm2iT-l5fhJ__JYKC2WRwvvbVwDXq0mo28_Fl5qJfDjZsrm6SpcqLsdDYc-TDzS134Z8u_QnH",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJbVo6pak1d0gRLUxBGXD778k",
+         "plus_code" : {
+            "compound_code" : "7FM9+Q2 Leamington Spa",
+            "global_code" : "9C4W7FM9+Q2"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJbVo6pak1d0gRLUxBGXD778k",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 68,
+         "vicinity" : "66 Bath St, Leamington Spa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.29103,
+               "lng" : -1.5366267
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.29239917989273,
+                  "lng" : -1.535272670107278
+               },
+               "southwest" : {
+                  "lat" : 52.28969952010728,
+                  "lng" : -1.537972329892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "M&S Café",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJAxSqcew0d0gRHh84nqMgFsM",
+         "plus_code" : {
+            "compound_code" : "7FR7+C9 Leamington Spa",
+            "global_code" : "9C4W7FR7+C9"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJAxSqcew0d0gRHh84nqMgFsM",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "Royal Priors, Warwick St, Royal Leamington Spa, Leamington Spa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.290873,
+               "lng" : -1.5347042
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.29280562989273,
+                  "lng" : -1.533310370107277
+               },
+               "southwest" : {
+                  "lat" : 52.29010597010728,
+                  "lng" : -1.536010029892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Costa",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109382667007682162552\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA1TkCL3gpG6_t9mj6AqQJTEVpp8mEec4qoF-8v9WZ5MddWQwAw5Aa9dkgFVAxlQ_vNZJm-bk3cLR_SOGusHlU3hqWMLvCNPFlASnGzOMQiXyAKdqmy8ZWS4MiXXvtyeo8DLBwy_1CGgDPuFTHX8i2QmmEH5YgCPnsnRpN4Rxs--9rT",
+               "width" : 2736
+            }
+         ],
+         "place_id" : "ChIJ70-wROw0d0gRdDjY9MlDobE",
+         "plus_code" : {
+            "compound_code" : "7FR8+84 Leamington Spa",
+            "global_code" : "9C4W7FR8+84"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJ70-wROw0d0gRdDjY9MlDobE",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 258,
+         "vicinity" : "Unit E, Warwick St, Royal Leamington Spa, Leamington Spa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.2909087,
+               "lng" : -1.5365312
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.29224507989272,
+                  "lng" : -1.534709770107278
+               },
+               "southwest" : {
+                  "lat" : 52.28954542010727,
+                  "lng" : -1.537409429892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Angelica's Tea & Cake",
+         "place_id" : "ChIJR5j_ZOw0d0gRgTxJjGtWpYo",
+         "plus_code" : {
+            "compound_code" : "7FR7+99 Leamington Spa",
+            "global_code" : "9C4W7FR7+99"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJR5j_ZOw0d0gRgTxJjGtWpYo",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 10,
+         "vicinity" : "76 The Parade, Leamington Spa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.2910635,
+               "lng" : -1.5346459
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.29284972989272,
+                  "lng" : -1.533759970107278
+               },
+               "southwest" : {
+                  "lat" : 52.29015007010728,
+                  "lng" : -1.536459629892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Coffee Break",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 900,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117108336323493591293\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECyWwe4AGIs5kBNhUTD-MUA7JwPhlF4b7xTXXxPIapKruflSQxQA9TuVc0_uwEHPFP4tEGSNTiMuaNcHEJQjo1LB9ngVu904G9_7Rv33f_BFwN4hG-4PMyAJer2tZ1kL-FyU3LOxkDw2HFoJCd_MuccAFEMNPKeYw5XFGlfM9Fq7bJ3",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJ688hR9M1d0gRJ1wgzsS-H4I",
+         "plus_code" : {
+            "compound_code" : "7FR8+C4 Leamington Spa",
+            "global_code" : "9C4W7FR8+C4"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJ688hR9M1d0gRJ1wgzsS-H4I",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 110,
+         "vicinity" : "Unit 12 uppermail, Leamington Spa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.29007350000001,
+               "lng" : -1.5341638
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.29124457989273,
+                  "lng" : -1.533445420107278
+               },
+               "southwest" : {
+                  "lat" : 52.28854492010728,
+                  "lng" : -1.536145079892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Bar Angeli",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104273509068899534018\"\u003eJames Bavington\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBYE87CdCUMbMDX043rrvwx5TUtCa1RGISohMBLxkKqsp3ZfpD2n5k-b_SYQuE-f_KyD6wYctNbKVwIk8Kz0raWuUuPVcZ04r2T6WVqlsUH2k0oTkrL4N4DEWIFgmcW0j5Vsmdi3N0fieEZ7eJvn2SKgF3f0FHzMYCJjfwvFnaus84k",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJSx9CVew0d0gR7439SX8UWpU",
+         "plus_code" : {
+            "compound_code" : "7FR8+28 Leamington Spa",
+            "global_code" : "9C4W7FR8+28"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJSx9CVew0d0gR7439SX8UWpU",
+         "scope" : "GOOGLE",
+         "types" : [ "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 168,
+         "vicinity" : "Regent Court Shopping Centre, 5 Livery St, Leamington Spa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.2847532,
+               "lng" : -1.5362728
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.28610302989272,
+                  "lng" : -1.534922970107278
+               },
+               "southwest" : {
+                  "lat" : 52.28340337010728,
+                  "lng" : -1.537622629892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Little Italy",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115962528478145161501\"\u003eIsabel A. Young\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB-_3LrfAB7ecx7zpALSQgwfJqBtXn75ErqFwt-3vJD1I2q9-dg93KtJOt0TzpNqQgis8hzr17e5n4VCeaY6b95fN5GamBzbA1pBiz6RmZheyxOluzP2NX9axI0lhbknHW9oe65KeRZxShglVQIAeZqp_KWFILV5tmec7zgtDUdIGzg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJFV6xg5M0d0gRP6TjU2pxjn0",
+         "plus_code" : {
+            "compound_code" : "7FM7+WF Leamington Spa",
+            "global_code" : "9C4W7FM7+WF"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJFV6xg5M0d0gRP6TjU2pxjn0",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 16,
+         "vicinity" : "Leamington Spa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.2920399,
+               "lng" : -1.5334334
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.29342332989272,
+                  "lng" : -1.532105020107278
+               },
+               "southwest" : {
+                  "lat" : 52.29072367010728,
+                  "lng" : -1.534804679892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Warwick Street Kitchen",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111933716387417895041\"\u003eKatie Stockton\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBUUYezlboCpgGc4Riu3R-iZ5EZ_O4tlTrmZnRUjm3Pz_cTf-X3hlfyaQ8Ww3t4O5m0zfh8n1c4rLnrwOZ71DSy8TZGFdwgHHwop47lFFmcesypEmDpvI-0rGUAKiDb-q8f98WqCBu8i6iK7EIRFOfPPWdUCN2yypwNWAqZtwxN-U5a",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJxyP7xe00d0gRrtujR1k6A_Y",
+         "plus_code" : {
+            "compound_code" : "7FR8+RJ Leamington Spa",
+            "global_code" : "9C4W7FR8+RJ"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJxyP7xe00d0gRrtujR1k6A_Y",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 351,
+         "vicinity" : "102 Warwick St, Leamington Spa"
+      }
+   ],
+   "status" : "OK"
+}
