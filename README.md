@@ -22,8 +22,8 @@ We’d like to give you a chance to show off your skills by putting together a s
 4.	Clicking on the list item should show a modal with the coffee shop details, including, name, address, location, rating, distance from you.
 5.	Allow the user to sort by ranking or name.
 
-Once you’re done, raise a PR against the master branch and we can talk it through.
+Once you’re done, share your forked repository with us and we can talk it through.
 
 
 ## Project setup
-Clone and run in Android Studio
+Fork the repository into your own account and run in Android Studio
